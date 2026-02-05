@@ -1,0 +1,7 @@
+This is a placeholder for a test video file.
+
+To use this example with a real video:
+1. Replace this file with an actual .mp4 video file
+2. Upload it using: aws s3 cp test.mp4 s3://<input-bucket>/uploads/test.mp4
+
+The video will be automatically processed by AWS MediaConvert into HLS format.
